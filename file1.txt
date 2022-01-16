@@ -5,3 +5,4 @@ Hello World
 added to check rebase in file1.txt
 added HI in master branch
 added HIHELLO in master branch
+added HIHELLO in new_branch
